@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RocRecyclerView.iml" filepath="$PROJECT_DIR$/RocRecyclerView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocrecyclerviewlib/rocrecyclerviewlib.iml" filepath="$PROJECT_DIR$/rocrecyclerviewlib/rocrecyclerviewlib.iml" />
     </modules>
   </component>
 </project>
