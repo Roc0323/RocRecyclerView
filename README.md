@@ -8,7 +8,7 @@
             ...
             maven { url "https://jitpack.io" }
         }
-}
+    }
     dependencies {
         compile 'com.github.Roc0323:RocRecyclerView:1.0.1'
 }
