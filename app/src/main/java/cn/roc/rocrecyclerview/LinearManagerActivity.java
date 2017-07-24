@@ -84,7 +84,7 @@ public class LinearManagerActivity extends Activity {
             }
         });
 //        设置分割线
-        rcv.addItemDecoration(new BaseItemDecoration(this,R.color.colorAccent));
+        rcv.addItemDecoration(new BaseItemDecoration(this,R.color.white));
 
         rcv.setOnItemClickListener(new OnItemClickListener() {
             @Override
