@@ -2,7 +2,7 @@
 对RecyclerView控件的简单优化，可以随意添加（取消）一个或多个头部和尾部</br>
 
 ### 演示</br>
-![image](https://github.com/Roc0323/RocRecyclerView/screenshot/luping.gif)
+![image](https://github.com/Roc0323/RocRecyclerView/screenshot/luping.gif )
 
 ### 注意</br>
 
